@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DanyHB
+- 👋 Hi, I’m @DanielHalabi
 - 👀 I’m interested in learning more about computers and coding
 - 🌱 I’m currently learning computer science
 - 💞️ I’m looking to collaborate on ...
